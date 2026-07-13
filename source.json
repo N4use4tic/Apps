@@ -7,16 +7,16 @@
       "bundleIdentifier": "com.gabriel.traningsapp",
       "developerName": "Gabriel",
       "localizedDescription": "Personlig traningsapp (klattring + styrka).",
-      "version": "1.0.26",
-      "versionDate": "2026-07-08T21:34:15Z",
+      "version": "1.0.27",
+      "versionDate": "2026-07-13T17:12:12Z",
       "size": 726809,
-      "downloadURL": "https://github.com/N4use4tic/traningsapp-releases/releases/download/latest/Traningsapp.ipa",
+      "downloadURL": "https://github.com/N4use4tic/apps/releases/download/latest-traningsapp/Traningsapp.ipa",
       "versions": [
         {
-          "version": "1.0.26",
-          "date": "2026-07-08T21:34:15Z",
+          "version": "1.0.27",
+          "date": "2026-07-13T17:12:12Z",
           "size": 726809,
-          "downloadURL": "https://github.com/N4use4tic/traningsapp-releases/releases/download/latest/Traningsapp.ipa"
+          "downloadURL": "https://github.com/N4use4tic/apps/releases/download/latest-traningsapp/Traningsapp.ipa"
         }
       ]
     }
