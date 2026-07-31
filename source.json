@@ -3,24 +3,6 @@
   "identifier": "com.gabriel.traningsapp-releases",
   "apps": [
     {
-      "name": "Traningsapp",
-      "bundleIdentifier": "com.gabriel.traningsapp",
-      "developerName": "Gabriel",
-      "localizedDescription": "Personlig traningsapp (klattring + styrka).",
-      "version": "1.0.33",
-      "versionDate": "2026-07-28T07:55:39Z",
-      "size": 799653,
-      "downloadURL": "https://github.com/N4use4tic/apps/releases/download/latest-traningsapp/Traningsapp.ipa",
-      "versions": [
-        {
-          "version": "1.0.33",
-          "date": "2026-07-28T07:55:39Z",
-          "size": 799653,
-          "downloadURL": "https://github.com/N4use4tic/apps/releases/download/latest-traningsapp/Traningsapp.ipa"
-        }
-      ]
-    },
-    {
       "name": "Budgetapp",
       "bundleIdentifier": "com.gabrieltellas.budgetapp",
       "developerName": "Gabriel",
@@ -125,6 +107,24 @@
           "date": "2026-07-13T18:58:05Z",
           "size": 257892,
           "downloadURL": "https://github.com/N4use4tic/Apps/releases/download/latest-budgetapp/Budgetapp.ipa"
+        }
+      ]
+    },
+    {
+      "name": "Traningsapp",
+      "bundleIdentifier": "com.gabriel.traningsapp",
+      "developerName": "Gabriel",
+      "localizedDescription": "Personlig traningsapp (klattring + styrka).",
+      "version": "1.0.34",
+      "versionDate": "2026-07-31T17:17:55Z",
+      "size": 814130,
+      "downloadURL": "https://github.com/N4use4tic/apps/releases/download/latest-traningsapp/Traningsapp.ipa",
+      "versions": [
+        {
+          "version": "1.0.34",
+          "date": "2026-07-31T17:17:55Z",
+          "size": 814130,
+          "downloadURL": "https://github.com/N4use4tic/apps/releases/download/latest-traningsapp/Traningsapp.ipa"
         }
       ]
     }
