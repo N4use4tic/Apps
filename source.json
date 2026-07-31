@@ -108,7 +108,8 @@
           "size": 257892,
           "downloadURL": "https://github.com/N4use4tic/Apps/releases/download/latest-budgetapp/Budgetapp.ipa"
         }
-      ]
+      ],
+      "iconURL": "https://cdn.jsdelivr.net/gh/N4use4tic/apps@main/icons/budgetapp.png"
     },
     {
       "name": "Traningsapp",
