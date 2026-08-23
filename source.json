@@ -117,15 +117,15 @@
       "developerName": "Gabriel",
       "localizedDescription": "Personlig traningsapp (klattring + styrka).",
       "iconURL": "https://cdn.jsdelivr.net/gh/N4use4tic/apps@main/icons/traningsapp.png",
-      "version": "1.0.50",
-      "versionDate": "2026-08-23T15:07:39Z",
-      "size": 836789,
+      "version": "1.0.51",
+      "versionDate": "2026-08-23T15:19:43Z",
+      "size": 833992,
       "downloadURL": "https://github.com/N4use4tic/apps/releases/download/latest-traningsapp/Traningsapp.ipa",
       "versions": [
         {
-          "version": "1.0.50",
-          "date": "2026-08-23T15:07:39Z",
-          "size": 836789,
+          "version": "1.0.51",
+          "date": "2026-08-23T15:19:43Z",
+          "size": 833992,
           "downloadURL": "https://github.com/N4use4tic/apps/releases/download/latest-traningsapp/Traningsapp.ipa"
         }
       ]
